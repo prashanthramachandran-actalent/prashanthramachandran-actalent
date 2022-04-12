@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @prashanthramachandran-actalent
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# DemoGit 
 
-<!---
-prashanthramachandran-actalent/prashanthramachandran-actalent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Demogit is used to demonstrate use cases in git 
+
+## Installation
+git clone origin main 
+will get you latest version of code 
+
+
+## Usage
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
