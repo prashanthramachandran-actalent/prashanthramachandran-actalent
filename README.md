@@ -1,6 +1,6 @@
 # DemoGit 
 
-Demogit is used to demonstrate use cases in git 
+DemoGit is used to demonstrate use cases in git 
 
 ## Installation
 git clone origin main 
