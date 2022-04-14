@@ -18,5 +18,6 @@ int main() {
   printf("tangent wave with value 0.5 is %f\n", tan(0.5));
   printf("The sum of all angles of a triangle is 180\n");
   printf("The sum of all angles of a quad is 360 degrees\n");
+  printf("The hexagon is a nice shape\n");
   return 0;
 }
