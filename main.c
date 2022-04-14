@@ -16,5 +16,6 @@ int main() {
   printf("Cosine wave with value 0.5 is %f\n",cos(0.5));
   printf("tangent wave with value 0.5 is %f\n", tan(0.5));
   printf("The sum of all angles of a triangle is 180\n");
+  printf("The sum of all angles of a quad is 360 degrees\n");
   return 0;
 }
