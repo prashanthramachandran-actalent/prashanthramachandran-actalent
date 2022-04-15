@@ -20,5 +20,6 @@ int main() {
   printf("The sum of all angles of a quad is 360 degrees\n");
   printf("The hexagon is a nice shape\n");
   printf("The sepatagon is a nice shape\n");
+  printf("The octagon is a nice shape with 8 sides\n");
   return 0;
 }
